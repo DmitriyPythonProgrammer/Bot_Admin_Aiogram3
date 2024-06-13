@@ -1,2 +1,23 @@
 # Bot_Admin_Aiogram3
-ВНИМАНИЕ! перед началом работы установите библиотеки aiogram и aiosqlite, а также впишите свой токен бота в файле config.py! Данный репозиторий представляет собой "заготовку" бота-администратора для телеграмм групп. Его можно использовать "из коробки", но он больше предназначен для начинающих разработчиков на Aiogram, которым нужен пример бота или шаблон для разработки собственного проекта. Проект был написан, протестирован на Pycharm. В нём реализованы следующие функции: бан, разбан, банлист, мут, размут, мутлист, база данных для замьюченных и забаненных пользователей, айди пользователя, рандомное число, хелп, приветственное сообщение для новых пользователей. Данный проект не претендует на звание "идеальный шаблон для чат-бота администратора". Я знаю, что в нем "плохой" код, ошибки и некоторые недоработки. Но я обращаю внимание, что бот изначально создавался как "шаблон" с минимальным количеством функций. Если у вас есть идеи, что добавить, или если вы нашли ошибку в коде, или хотите предложить изменить что - то, пишите мне в телеграм: @pr1zrak0. Attention! before you start, install the aiogram and aiosqlite libraries This repository is a "blank" bot administrator for telegram groups. It can be used out of the box, but it is more intended for novice Aiogram developers who need an example bot or a template to develop their own project. The project was written and tested on Pycharm. It implements the following functions: ban, unban, banlist, mutation, blur, mutlist, database for loaded and banned users, user ID, random number, help, welcome message for new users. This project does not claim to be an "ideal template for an administrator's chatbot". I know that it has "bad" code, errors and some flaws. But I pay attention that the bot was originally created as a "template" with a minimum number of functions. If you have any ideas what to add, or if you find a bug in the code, or want to suggest changing something, write to me on telegram: @pr1zrak0.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=3000&color=F70000&background=000000&random=false&width=435&lines=Created+by+DmitriyPythonProgrammer)](https://git.io/typing-svg)
+
+<h3>ВНИМАНИЕ! перед началом работы установите библиотеки aiogram и aiosqlite, а также впишите свой токен бота в файле config.py!</h3>
+Данный репозиторий представляет собой "заготовку" бота-администратора для телеграмм групп. <br>
+Его можно использовать "из коробки", но он больше предназначен для начинающих разработчиков на Aiogram, <br>
+которым нужен пример бота или шаблон для разработки собственного проекта. <br>
+<h4>Проект был написан, протестирован на Pycharm, python 3.8+.</h4>
+<h4>Реализованы следующие функции:</h4> 
+<ul>
+  <li>Бан</li>
+  <li>Разбан</li>
+  <li>Банлист</li>
+  <li>Мут</li>
+  <li>Размут</li>
+  <li>Мутлист</li>
+  <li>База данных забаненных и замьюченных</li>
+  <li>Получить айди пользователя</li>
+  <li>Рандомное число</li>
+  <li>"Хелп"</li>
+  <li>Приветственное сообщение для новых пользователей</li>
+</ul>
+<h1>Данный проект служит лишь заготовкой для дальнейшего наполнения. Не является "образцом" или готовым продуктом.</h1>
